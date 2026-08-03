@@ -16,6 +16,35 @@ Today, my core focus is simple: building secure, scalable `APIs` that solve real
 
 A shared library serves as the foundational backbone in a microservices ecosystem. It encapsulates reusable domain models, utility classes, validation groups and robust error-handling mechanisms to ensure consistency, eliminate code duplication and enforce best practices across both `Servlet` and `Reactive` microservices.
 
+# Professional Experience
+
+<details>
+<summary><b>Software Developer,</b> SoWeDid Solutions (2 Months)</summary>
+
+* Researched and wrote documentation for a Micro Frontend architecture using `Module Federation` for an `Angular` application.
+* Took static `HTML` templates from the `UI`/`UX` team and built dynamic `Angular` components out of them, making sure they matched all business requirements and wireframes.
+</details>
+
+<details>
+<summary><b>Software Developer,</b> SoWeDid Solutions (2 Years, 8 Months)</summary>
+
+* Worked in Agile teams to build and maintain web applications.
+* Refactored old code into `Java` v8 streams to make it cleaner and more efficient.
+* Designed and optimized `BIRT` reports for data reporting.
+* Connected third-party `API`s to the main application.
+* Set up custom mail templates for the `Spring Boot` backend.
+* Improved custom `Quartz` cron jobs so background tasks run better.
+* Tuned `Elasticsearch` to make data searches much faster.
+* Added `Angular DataTables` for features like pagination and sorting.
+* Connected the Paytm payment UI to the frontend.
+* Handled full-stack debugging across both the frontend and backend.
+* Set up `proxy.config.json` for local development when migrating from `AngularJS` to `Angular` v8.
+* Configured locale files (translations) in `Angular` using key-value pairs.
+* Fixed various `UI` bugs.
+* Added `Liquibase` to manage database changes and wrote documentation to help new developers get onboarded easily.
+* Picked up new technologies quickly to handle changing project needs.
+</details>
+
 # Tech Stack & Skills
 
 Here is a breakdown of the programming languages, frameworks, tools and methodologies I work with:
