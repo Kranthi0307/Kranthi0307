@@ -13,6 +13,14 @@ Throughout my progression, I have developed a particular passion for API design,
 
 A shared library serves as the foundational backbone in a microservices ecosystem. It encapsulates reusable domain models, utility classes, validation groups and robust error-handling mechanisms to ensure consistency, eliminate code duplication and enforce best practices across both Servlet and Reactive microservices.
 
+### [PORTFOLIO](https://kranthi0307.github.io/portefeuille/my-files/Portfolio_Service_README.html)
+
+This is my very first web application, featuring a full-stack portfolio with a Spring Boot backend and an Angular UI deployed on free instances. It was built with a focus on clean architecture, automated CI/CD pipelines and modern development practices.
+
+### [GATEWAY](https://kranthi0307.github.io/portefeuille/my-files/Gateway_README.html)
+
+A reactive API Gateway built with Spring Boot (v3.5.5) and Spring Cloud (v2025.0.0) acting as the single secure entry point for the client UI. It handles dynamic routing, security enforcement and cross-cutting concerns to filter invalid traffic before it reaches backend services.
+
 # Professional Experience
 
 <details>
