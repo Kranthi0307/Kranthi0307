@@ -21,25 +21,16 @@ A shared library serves as the foundational backbone in a microservices ecosyste
 Here is a breakdown of the programming languages, frameworks, tools and methodologies I work with:
 
 ### Programming Languages and Fundamentals
-
-![Language Java](https://img.shields.io/badge/Language-Java-ED8B00)
-![Language JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E)
-![Language TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6)<br>
-![Web Fundamental HTML5](https://img.shields.io/badge/Web%20Fundamental-HTML5-E34F26)
-![Web Fundamental CSS](https://img.shields.io/badge/Web%20Fundamental-CSS-1572B6)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Frameworks and Architecture
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>
+![Microservices](https://img.shields.io/badge/Microservices-4B32C3?style=for-the-badge)
+![Module Federation](https://img.shields.io/badge/Module--Federation-7C3AED?style=for-the-badge)
 
-![Framework Spring](https://img.shields.io/badge/Framework-Spring-6DB33F)
-![Framework Angular](https://img.shields.io/badge/Framework-Angular-DD0031)<br>
-![Architecture Microservices](https://img.shields.io/badge/Architecture-Microservices-4B32C3)
-![Architecture Module Federation](https://img.shields.io/badge/Architecture-Module%20Federation-4B32C3)
-
-### Security and Cryptography
-
-![Asymmetric Cryptography RSA Public/Private Keys](https://img.shields.io/badge/Asymmetric%20Cryptography-RSA%20Public%2FPrivate%20Keys-319795)<br>
-![PKCS12 KeyStore Management](https://img.shields.io/badge/PKCS12%20KeyStore%20Management-319795)<br>
-![JWKS JSON Web Key Sets](https://img.shields.io/badge/JWKS-JSON%20Web%20Key%20Sets-319795)<br>
-![Multi-Tenancy Isolation](https://img.shields.io/badge/Multi--Tenancy%20Isolation-2D3748)<br>
-![RBAC Role-Based Access Control](https://img.shields.io/badge/RBAC-Role--Based%20Access%20Control-2D3748)<br>
-![CSRF/XSRF Defense Mechanisms](https://img.shields.io/badge/CSRF%2FXSRF%20Defense%20Mechanisms-2D3748)
