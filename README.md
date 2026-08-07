@@ -68,7 +68,7 @@ When the company needed to upgrade our legacy AngularJS app to Angular v8, I pic
 
 As I pursued my master’s degree, I expanded into backend scalability and infrastructure by learning Docker and diving into Microservices architecture. On the frontend side, I researched and documented Micro-frontends using Module Federation.
 
-Following my master's, I expanded my technical depth further by gaining hands-on experience and learning how libraries work in Angular. I also started learning microservices by building a few services and a gateway hands-on, built a custom spring-boot library, and utilized Docker alongside CI/CD pipelines to streamline deployments.
+Following my master's, I expanded my technical depth further by gaining hands-on experience and learning how libraries work in Angular. I also started learning microservices by building a few services and a gateway hands-on, built a custom spring-boot library and utilized Docker alongside CI/CD pipelines to streamline deployments.
 
 Today, my core focus is simple: building secure, scalable APIs that solve real, painful problems.
 
