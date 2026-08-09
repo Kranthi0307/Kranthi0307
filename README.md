@@ -7,6 +7,13 @@ I am a Full-Stack Software Engineer with a strong foundation in Java ecosystem d
 
 Throughout my progression, I have developed a particular passion for API design, security and maintenance, enjoying the challenge of building secure, scalable and well-documented backend systems.
 
+If you have questions, suggestions or collaboration opportunities:
+
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kranthia24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kranthi-kumar-reddy-a-488a75129/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFECAC)](https://kranthi0307.github.io/portefeuille/)
+
+
 # Projects
 
 ### [SHARED-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Shared_Library_README.html)
