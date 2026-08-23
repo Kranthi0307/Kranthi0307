@@ -28,13 +28,13 @@ A reactive API Gateway acts as the single secure entry point for the client UI. 
 
 A centralized identity and security core acting as the source of truth for the ecosystem. This application issues cryptographically secured JWTs, enforces multi-tenancy and manages role-based access control (RBAC).
 
-### [DATA-MANAGEMENT]()
+### [DATA-MANAGEMENT](https://kranthi0307.github.io/portefeuille/my-files/Data_Management_README.html)
 
 A full-stack enterprise data management application featuring a hardened Spring Boot backend and an Angular UI. Designed with optimized database querying, reactive frontend state management via Angular Signals and advanced multi-tenancy context handling.
 
 ### [PORTFOLIO](https://kranthi0307.github.io/portefeuille/my-files/Portfolio_Service_README.html)
 
-This is my very first web application, featuring a full-stack portfolio with a Spring Boot backend and an Angular UI deployed on free instances. It was built with a focus on clean architecture, automated CI/CD pipelines and modern development practices.
+This is my very first web application, featuring a full-stack portfolio with a Spring Boot backend and an Angular UI deployed on free instances. It was built with a focus on clean architecture, automated CI/CD pipelines and modern development practices. To efficiently manage production data securely, I integrated ngrok for local authentication, bridging the deployed environment with local development resources.
 
 # Professional Experience
 
