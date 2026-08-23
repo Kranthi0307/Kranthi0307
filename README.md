@@ -110,7 +110,7 @@ Here is a breakdown of the programming languages, frameworks, tools and methodol
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)<br>
 ![Spring Data JPA / Hibernate](https://img.shields.io/badge/Spring--Data--JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br>
-![Liquibase](https://img.shields.io/badge/Liquibase-E34F26?style=for-the-badge&logo=liquibase&logoColor=white)<br>
+[![Liquibase](https://img.shields.io/badge/Liquibase-E34F26?style=for-the-badge&logo=liquibase&logoColor=white)](https://www.liquibase.com)<br>
 ![MySQL Workbench](https://img.shields.io/badge/MySQL--Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
@@ -120,19 +120,20 @@ Here is a breakdown of the programming languages, frameworks, tools and methodol
 ### DevOps, CI/CD and Cloud
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Packages](https://img.shields.io/badge/GitHub--Packages-222222?style=for-the-badge&logo=github&logoColor=white)<br>
-![Cloud Deployment](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+[![Cloud Deployment](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
 
 ### Tools, IDEs and Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)<br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)<br>
 ![BIRT Reports](https://img.shields.io/badge/BIRT--Reports-333333?style=for-the-badge&logo=eclipseide&logoColor=white)<br>
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge)
+[![Visual Studio Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge)](https://code.visualstudio.com)<br>
+[![ngrok](https://img.shields.io/badge/ngrok-1F1E33?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com)
 
 ### Methodologies and Practices
 ![Architectural Documentation](https://img.shields.io/badge/Architectural--Documentation-0284C7?style=for-the-badge)<br>
