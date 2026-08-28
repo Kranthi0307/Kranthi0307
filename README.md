@@ -24,7 +24,7 @@ A shared library serves as the foundational backbone in a microservices ecosyste
 
 A reactive API Gateway acts as the single secure entry point for the client UI. It handles dynamic routing, security enforcement and cross-cutting concerns to filter invalid traffic before it reaches backend services.
 
-### [AUTHENTICATION-SERVER]()
+### [AUTHENTICATION-SERVER](https://kranthi0307.github.io/portefeuille/my-files/Auth_Server_README.html)
 
 A centralized identity and security core acting as the source of truth for the ecosystem. This application issues cryptographically secured JWTs, enforces multi-tenancy and manages role-based access control (RBAC).
 
