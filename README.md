@@ -131,7 +131,7 @@ Here is a breakdown of the programming languages, frameworks, tools and methodol
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)<br>
 [![BIRT Reports](https://img.shields.io/badge/BIRT--Reports-333333?style=for-the-badge&logo=eclipseide&logoColor=white)](https://projects.eclipse.org/projects/technology.birt)<br>
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge)](https://code.visualstudio.com)<br>
 [![ngrok](https://img.shields.io/badge/ngrok-1F1E33?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com)
 
