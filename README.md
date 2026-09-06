@@ -84,16 +84,16 @@ Today, my core focus is simple: building secure, scalable APIs that solve real, 
 Here is a breakdown of the programming languages, frameworks, tools and methodologies I work with:
 
 ### Programming Languages and Fundamentals
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)<br>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ### Frameworks and Architecture
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>
+[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)<br>
 ![Microservices](https://img.shields.io/badge/Microservices-4B32C3?style=for-the-badge)
 ![Module Federation](https://img.shields.io/badge/Module--Federation-7C3AED?style=for-the-badge)
 
@@ -106,13 +106,13 @@ Here is a breakdown of the programming languages, frameworks, tools and methodol
 ![CSRF/XSRF Defense](https://img.shields.io/badge/CSRF--Defense-2D3748?style=for-the-badge)<br>
 
 ### Databases and Data Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)<br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)<br>
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch)<br>
 ![Spring Data JPA / Hibernate](https://img.shields.io/badge/Spring--Data--JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br>
 [![Liquibase](https://img.shields.io/badge/Liquibase-E34F26?style=for-the-badge&logo=liquibase&logoColor=white)](https://www.liquibase.com)<br>
-![MySQL Workbench](https://img.shields.io/badge/MySQL--Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL--Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 ### Messaging and Event Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache--Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
