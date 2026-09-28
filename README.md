@@ -16,6 +16,10 @@ If you have questions, suggestions or collaboration opportunities:
 
 # Projects
 
+### [ERROR-HANDLING-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Error_Handling_Library_README.html)
+
+A modular, production-grade Spring Boot error-handling library delivering native RFC 7807 Problem Details across both Servlet (Spring MVC) and Reactive (WebFlux) stacks with zero-conflict configuration.
+
 ### [SHARED-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Shared_Library_README.html)
 
 A shared library serves as the foundational backbone in a microservices ecosystem. It encapsulates reusable domain models, utility classes, validation groups and robust error-handling mechanisms to ensure consistency, eliminate code duplication and enforce best practices across both Servlet and Reactive microservices.
