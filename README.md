@@ -16,29 +16,29 @@ If you have questions, suggestions or collaboration opportunities:
 
 # Projects
 
-### [ERROR-HANDLING-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Error_Handling_Library_README.html)
+### [AUTHENTICATION-SERVER](https://kranthi0307.github.io/portefeuille/my-files/Auth_Server_README.html)
 
-A modular, production-grade Spring Boot error-handling library delivering native RFC 7807 Problem Details across both Servlet (Spring MVC) and Reactive (WebFlux) stacks with zero-conflict configuration.
-
-### [SHARED-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Shared_Library_README.html)
-
-A shared library serves as the foundational backbone in a microservices ecosystem. It encapsulates reusable domain models, utility classes, validation groups and robust error-handling mechanisms to ensure consistency, eliminate code duplication and enforce best practices across both Servlet and Reactive microservices.
+A centralized authentication and identity service that acts as the source of truth for the microservices ecosystem. It issues JWTs containing tenant and role information and provides multi-tenancy and role-based access control (RBAC) for downstream services.
 
 ### [GATEWAY](https://kranthi0307.github.io/portefeuille/my-files/Gateway_README.html)
 
-A reactive API Gateway acts as the single secure entry point for the client UI. It handles dynamic routing, security enforcement and cross-cutting concerns to filter invalid traffic before it reaches backend services.
-
-### [AUTHENTICATION-SERVER](https://kranthi0307.github.io/portefeuille/my-files/Auth_Server_README.html)
-
-A centralized identity and security core acting as the source of truth for the ecosystem. This application issues cryptographically secured JWTs, enforces multi-tenancy and manages role-based access control (RBAC).
+A reactive API Gateway that serves as the secure entry point for the client UI. It provides dynamic routing, JWT-based security, CORS and CSRF protection and request filtering before traffic reaches downstream services.
 
 ### [DATA-MANAGEMENT](https://kranthi0307.github.io/portefeuille/my-files/Data_Management_README.html)
 
-A full-stack enterprise data management application featuring a hardened Spring Boot backend and an Angular UI. Designed with optimized database querying, reactive frontend state management via Angular Signals and advanced multi-tenancy context handling.
+A full-stack data management application with a Spring Boot REST API and Angular UI. The application focuses on secure multi-tenant data access, database auditing, optimized data handling and Angular Signals for efficient client-side state management.
+
+### [SHARED-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Shared_Library_README.html)
+
+A reusable library that provides common domain models, utilities, validation and configuration across a microservices ecosystem. Designed to reduce duplication and maintain consistent development patterns across both Servlet and Reactive Spring applications.
+
+### [ERROR-HANDLING-LIBRARY](https://kranthi0307.github.io/portefeuille/my-files/Error_Handling_Library_README.html)
+
+A modular Spring Boot error-handling library providing RFC 7807 Problem Details across both Servlet (Spring MVC) and Reactive (WebFlux) applications, with configurable components designed to avoid conflicts with existing application configurations.
 
 ### [PORTFOLIO](https://kranthi0307.github.io/portefeuille/my-files/Portfolio_Service_README.html)
 
-This is my very first web application, featuring a full-stack portfolio with a Spring Boot backend and an Angular UI deployed on free instances. It was built with a focus on clean architecture, automated CI/CD pipelines and modern development practices. To efficiently manage production data securely, I integrated ngrok for local authentication, bridging the deployed environment with local development resources.
+A full-stack portfolio application built with Spring Boot and Angular and deployed using Docker and GitHub Actions. The project focuses on REST API development, automated testing, CI/CD and deployment practices, with ngrok used to securely connect the deployed application with local development resources.
 
 # Professional Experience
 
