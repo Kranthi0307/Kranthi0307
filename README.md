@@ -10,7 +10,7 @@ Throughout my progression, I have developed a particular passion for API design,
 If you have questions, suggestions or collaboration opportunities:
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kranthia24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kranthi-kumar-reddy-a-488a75129/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kranthi0307/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFECAC)](https://kranthi0307.github.io/portefeuille/)
 
 
